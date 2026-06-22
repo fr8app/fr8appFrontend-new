@@ -1,0 +1,444 @@
+@media (max-width: 1250px) {
+  .leftArrow.img:hover{
+    display: flex;
+  }
+  .leftArrow{
+    left: -2%;
+    top: 45%;
+}
+.rightArrow{
+    right: -2%;
+    top: 45%;
+}
+  section.sliderNew.how_work.three_ad_format ul.nav {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+  }
+  .three_ad_format ul.nav li {
+    width: 100% !important;
+  }
+  .three_ad_format ul.nav a {
+    text-align: center;
+    padding: 14px 0 !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  .leftArrow{
+    left: -22px;
+    top: 45%;
+}
+.rightArrow{
+    right: -22px;
+    top: 45%;
+}
+  section.slider:before {
+    background-size: cover;
+  }
+
+  section.slider.about-us .headings {
+    margin-top: 0;
+  }
+  .social-icons {
+    margin-bottom: 27px;
+    display: flex;
+    justify-content: center;
+  }
+  #slider2 .item {
+    max-height: 389px;
+  }
+  #slider2 .item {
+    max-height: 389px;
+  }
+  .screenshot p.heading-paragraph {
+    margin-bottom: 27px;
+  }
+  .second_section {
+    padding-bottom: 47px;
+  }
+  .screenshot {
+    padding-bottom: 49px;
+  }
+  .col-sm-5.text-right.slideInLeft.chronic-left {
+    margin-top: 27px;
+  }
+  .col-sm-5.text-right.slideInLeft.chronic-left.join {
+    margin-top: 0;
+  }
+  .owl-carousel .owl-item img {
+    width: 406px;
+  }
+
+  .message-box button {
+    height: 53px;
+  }
+  section.sliderNew {
+    height: unset;
+  }
+}
+
+.rightAlign {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 50px;
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+  .leftArrow{
+    left: -18px;
+    top: 45%;
+}
+.rightArrow{
+    right: -18px;
+    top: 45%;
+}
+  .mobile_circle {
+    height: 288px;
+    width: 258px;
+    background-color: #f1801f;
+    border-radius: 50%;
+    border: 63px solid #f8bf8f;
+    box-sizing: content-box;
+    text-align: center;
+    position: relative;
+    float: right;
+  }
+  img.imgPhone {
+    width: 100%;
+  }
+  .col-sm-6.text-center.iphone-responsive {
+    flex: 0 0 38%;
+  }
+  .container-fluid.adjust .row {
+    margin-right: -10px;
+  }
+  img.liner {
+    position: unset;
+  }
+  .logo_flex {
+    text-align: center;
+  }
+  .message-box button {
+    height: 54px;
+  }
+  .mobile_circle img {
+    width: 61%;
+  }
+  .social-icons img {
+    width: 42%;
+  }
+  span.navbar-toggler-icon:before {
+    content: "\f0c9";
+    font-family: fontAwesome;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    line-height: 30px;
+  }
+  span.navbar-toggler-icon {
+    position: relative;
+  }
+  .about-right {
+    padding-top: 27px;
+  }
+  .new-fine {
+    margin-top: 15px;
+  }
+  .img_div {
+    width: 100%;
+  }
+  div#collapsibleNavbar {
+    background-color: #fff;
+  }
+  div#collapsibleNavbar ul li .nav-link {
+    font-weight: 400;
+    font-size: 18px;
+    color: #a6a4a4;
+    transition: 0.5s;
+    padding: 6px;
+  }
+  .social-icons img {
+    width: inherit;
+  }
+  div#collapsibleNavbar ul li .nav-link {
+    font-weight: 400;
+    font-size: 13px;
+    color: #a6a4a4;
+    transition: 0.5s;
+    padding: 9px;
+  }
+  div#collapsibleNavbar ul li {
+    padding: 0;
+  }
+  p.BLUE {
+    width: 90px;
+  }
+  .navbar-toggler {
+    background-color: #fff;
+  }
+  section.slider {
+    min-height: 100vh !important;
+    height: 100%;
+  }
+}
+
+.frtext {
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .leftArrow{
+    left: 16px;
+    top: 45%;
+}
+.rightArrow{
+    right: 16px;
+    top: 45%;
+}
+  .imageViewText {
+    margin-left: 5px;
+    text-align: center;
+  }
+  .border-bottom {
+    margin: auto;
+  }
+
+  .content_align {
+    display: block;
+  }
+  section.how_work.three_ad_format ul.nav {
+    display: inherit !important;
+    flex-wrap: inherit;
+    width: 100%;
+  }
+  section.how_work.three_ad_format .nav-tabs .nav-link.border-radius {
+    border-top-left-radius: 15px !important;
+    border-bottom-left-radius: 0px !important;
+    border-top-right-radius: 15px;
+  }
+  section.how_work.three_ad_format .nav-tabs .nav-link.border-radius-right {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+
+  section.how_work.three_ad_format .nav-tabs .nav-item {
+    width: 100% !important;
+    text-align: center !important;
+  }
+  .navbar-toggler {
+    background-color: #fff;
+  }
+  h3.frtext {
+    display: none;
+  }
+  .social-icons {
+    display: none;
+  }
+  .medicience .col-md-4 {
+    width: 50%;
+  }
+  .slider .col-sm-5 {
+    width: 100%;
+    max-width: 100%;
+    flex: 100%;
+  }
+  .slider .col-sm-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .col-sm-6.text-center.iphone-responsive {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .Mobile_1.slidetilUp.wow img {
+    width: 100%;
+    position: relative;
+    top: 4px;
+    right: 0;
+  }
+
+  .social-icons img {
+    width: unset;
+  }
+
+  section.slider p {
+    margin-bottom: 24px;
+    margin-top: 2px;
+  }
+
+  section.second_section {
+    padding-bottom: 42px;
+  }
+  .text-data {
+    padding: 55px 25px;
+  }
+
+  section.second_section .col-sm-4 {
+    margin-bottom: 27px;
+  }
+  section.slider {
+    padding-top: 102px;
+  }
+  footer {
+    background-size: cover;
+  }
+
+  .socials {
+    display: block !important;
+    padding: 36px 0 46px 0;
+    position: relative;
+  }
+  .responsive-icons {
+    display: none;
+  }
+  .text-data {
+    padding: 55px 20px;
+  }
+  .responsive_toggle {
+    flex: 1;
+    max-height: 34px;
+    overflow: hidden;
+    padding: 10px 0;
+    position: relative;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding-bottom: 26px;
+    margin-bottom: 50px;
+  }
+  .responsive_toggle.current {
+    max-height: none !important;
+  }
+  .text_line .col-md-3 {
+    width: 100%;
+    flex: 0 0 100% !important;
+    max-width: 100%;
+  }
+  .responsive_toggle:before {
+    font-family: FontAwesome;
+    content: "\f107";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    position: absolute;
+    right: 8px;
+    top: 5px;
+  }
+  .responsive_toggle.current:before {
+    font-family: FontAwesome;
+    content: "\f00d ";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    font-weight: 100;
+    font-size: 12px;
+    color: #434343;
+  }
+}
+@media (max-width: 580px) {
+  .Mobile_1.slidetilUp.wow img {
+    width: inherit !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .leftArrow{
+    left: 16px;
+    top: 45%;
+}
+.rightArrow{
+    right: 16px;
+    top: 45%;
+}
+  .footer-bottom .text-right {
+    text-align: center !important;
+  }
+  section.slider {
+    background-size: cover;
+  }
+  img.imgPhone {
+    width: 100%;
+  }
+  .Mobile_1.slidetilUp.wow img {
+    width: 95% !important;
+  }
+  .footer-bottom .text-left {
+    text-align: center !important;
+    margin: 22px 0;
+  }
+  .medicience .col-md-4 {
+    width: 100%;
+  }
+  .Mobile_1.slidetilUp.wow img {
+    width: 100%;
+    position: unset;
+    top: unset;
+  }
+  section.slider {
+    padding-top: 97px;
+  }
+  .message-box button {
+    margin-top: 12px;
+    position: unset;
+  }
+  .outer-text {
+    height: 174px;
+    text-align: center;
+  }
+  .about-right {
+    padding-top: 12px;
+    padding-right: 35px;
+    padding-left: 26px;
+    margin-left: 0;
+  }
+  .message-box.small input {
+    padding-right: 23px;
+  }
+  .wrapper-box {
+    padding: 0 20px;
+  }
+  .outer-text input {
+    padding-right: 23px;
+  }
+  .chronic-box.newBox {
+    padding: 0 15px;
+  }
+  section.slider h2 {
+    font-size: 30px;
+  }
+  nav.navbar.navbar-expand-lg {
+    padding-right: 0;
+  }
+  .iphone-frame {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 241px;
+    z-index: 9;
+  }
+  .iphone-frame img {
+    width: 100%;
+  }
+  div#slider1 {
+    padding-left: 81px;
+    width: 218px;
+    padding-top: 67px;
+  }
+  .slick-slide img {
+    width: 142px;
+    height: 287px;
+  }
+  .social-icons img {
+    width: 40%;
+  }
+}
